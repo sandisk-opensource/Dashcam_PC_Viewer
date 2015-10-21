@@ -1,0 +1,1 @@
+config:x86:x86_32:i686:mingw32:gcc 4.8.1 (GCC):--prefix=ffmpeg --enable-shared --extra-cflags=-I/c/MinGW/include --yasmexe='c%3a/yasm/yasm-1.3.0-win64.exe' --cpu=i686
